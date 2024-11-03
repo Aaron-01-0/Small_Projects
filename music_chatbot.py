@@ -103,3 +103,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+#to run the app , write in terminal
+#streamlit run music_chatbot.py
